@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
+News data taken from this website api : https://newsapi.org/
+
 ![thumb1](https://raw.githubusercontent.com/boby177/B-News/main/src/assets/Screenshot_2.png)
 
 ![thumb2](https://raw.githubusercontent.com/boby177/B-News/main/src/assets/Screenshot_3.png)
